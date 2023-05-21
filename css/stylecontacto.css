@@ -1,0 +1,96 @@
+.espacio{
+	padding-top: 10px;
+}
+
+.boxlogo{
+	padding-bottom: 15px;
+	text-align: center;
+	
+}
+.boxgato{
+	background-color: white;
+	text-align: center;
+    color: #CA786C;
+    padding-top: 15px;
+    padding-bottom: 15px;
+ 
+}
+
+.item1{
+
+	width: 18%;
+	padding-top: 1vw;
+	
+}
+
+.franja{
+	background-color: #F0C9B6;
+
+}  
+
+.franjacafe{
+	background-color: #4C3120;
+	
+}
+
+.final{
+
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #F0C9B6;
+	
+}
+
+nav{
+	
+	height: 10px;
+	width: 100%;
+}
+
+nav ul li{
+	list-style: none;
+	margin-left: 75px;
+	padding: 1px 0;
+	float: left;
+	display: inline-block;
+	position: relative;	
+}
+
+nav ul li a{
+	text-decoration: none;
+	color: #CA786C;
+	font-weight: bold;
+}
+
+p{
+	
+	text-align: center;
+	font-size: 12px;
+}
+
+.icon{
+	padding-top: 10px;
+	
+}
+.portada2{
+	padding-left: 12px;
+	padding-right: 30px;
+	padding-top: 85px;
+	padding-bottom: 85px;
+}
+.form{ 
+	width: 100%;
+	height: 20hw;
+
+}
+
+.final a{
+	text-decoration: none;
+	font-size: 20px;
+	width: 60px;
+	text-align: center;
+	color: #f1f1f1;
+	transition: all  0.4s ease-in-out;
+    transform: scale(1.2);
+}
+
